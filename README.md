@@ -44,4 +44,8 @@ You have successfully **completed** the Real-Time Collaborative Document Editor 
 ### Tools & Workflow
 
 - **VS Code:** Used extensively as the coding environment. Features such as integrated terminal, code completion, Git integration, and extensive extension support streamlined the development process for both frontend and backend logic.
-- **Collaboration Libraries:** While your implementation is based on React.js, Node.js, and MongoDB, similar systems may also utilize libraries like Yjs or operational transform algorithms to improve merge conflict handling and offline support[7][5].
+- **Collaboration Libraries:** While your implementation is based on React.js, Node.js, and MongoDB, similar systems may also utilize libraries like Yjs or operational transform algorithms to improve merge conflict handling and offline support
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/5ff8acba-78da-4fb4-986b-8fcdbc2fbe02)
+
