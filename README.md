@@ -8,7 +8,7 @@ Project description:-
 
 ## Project Completion: Real-Time Collaborative Document Editor
 
-You have successfully **completed** the Real-Time Collaborative Document Editor as a core component of your CODTECH internship. Below is a detailed summary of the key aspects and achievements based on your project requirements and technology stack.
+You have successfully **completed** the Real-Time Collaborative Document Editor as a core component . Below is a detailed summary of the key aspects and achievements based on your project requirements and technology stack.
 
 ### Core Technologies & Stack
 
