@@ -6,10 +6,6 @@ DOMAIN:-Full Stack Web Development
 
 Project description:-
 
-Perplexity can help you schedule.
-
-Here’s a detailed completion update for your **Real-Time Collaborative Document Editor** project, reflecting the full development cycle as per your internship task instructions.
-
 ## Project Completion: Real-Time Collaborative Document Editor
 
 You have successfully **completed** the Real-Time Collaborative Document Editor as a core component of your CODTECH internship. Below is a detailed summary of the key aspects and achievements based on your project requirements and technology stack.
